@@ -1,0 +1,1 @@
+var json_CiudadCapital_6 = {"type":"FeatureCollection","name":"CiudadCapital_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nombre":"Tokyo","名前":"東京都"},"geometry":{"type":"Point","coordinates":[139.749461599999989,35.6869628]}}]}
